@@ -174,3 +174,121 @@ textarea {
     width: 90%;
     margin-top: 10%;
 }
+
+.upRow{
+    background-color: transparent;
+    margin: 2%;
+    margin-left: 5%;
+    height: 33%;
+    width: 90%;
+}
+
+.cerva-pic {
+    float: left;
+    background-image: url(../images/Cervantino\ 2008.jpg);
+    background-size: 100%;
+    margin: 6px;
+    margin-left: 5%;
+    height: 90%;
+    width: 25%;
+    border: 2px solid;
+    border-color: black;
+}
+
+#Cerva {
+    position: relative;
+    top: 85%;
+    background-color: rgb(88, 182, 211);
+    color: white;
+    padding: 9px 77px;
+}
+
+.chih-pic {
+    float: left;
+    background-image: url(../images/Chihuahua.jpg);
+    background-size: 50%;
+    margin: 6px;
+    margin-left: 70px;
+    height: 90%;
+    width: 25%;
+    border: 2px solid;
+    border-color: black;
+}
+
+#chih {
+    position: relative;
+    top: 85%;
+    background-color: rgb(88, 182, 211);
+    color: white;
+    padding: 9px 77px;
+}
+
+.newyork-pic {
+    float: left;
+    background-image: url(../images/New\ York.jpg);
+    background-size: 50%;
+    margin: 6px;
+    margin-left: 70px;
+    height: 90%;
+    width: 25%;
+    border: 2px solid;
+    border-color: black;
+}
+
+#newyork {
+    position: relative;
+    top: 85%;
+    left: 1%;
+    background-color: rgb(88, 182, 211);
+    color: white;
+    padding: 9px 100px;
+}
+
+.lowRow{
+    background-color: transparent;
+    margin: 2%;
+    margin-left: 5%;
+    height: 33%;
+    width: 90%;
+}
+
+.puebla-pic {
+    float: left;
+    background-image: url(../images/Puebla.jpg);
+    background-size: 100%;
+    margin: 6px;
+    margin-left: 5%;
+    height: 90%;
+    width: 25%;
+    border: 2px solid;
+    border-color: black;
+}
+
+#puebla {
+    position: relative;
+    top: 85%;
+    background-color: rgb(88, 182, 211);
+    color: white;
+    padding: 9px 117px;
+}
+
+
+.ponderosa-pic {
+    float: left;
+    background-image: url(../images/ponderosa.jpg);
+    background-size: 55%;
+    margin: 6px;
+    margin-left: 70px;
+    height: 90%;
+    width: 25%;
+    border: 2px solid;
+    border-color: black;
+}
+
+#ponderosa {
+    position: relative;
+    top: 85%;
+    background-color: rgb(88, 182, 211);
+    color: white;
+    padding: 9px 103px;
+}

@@ -1,6 +1,21 @@
+:root {
+    --midnightBlue: #145DA0;
+    --darkBlue: #0C2D48;
+    --blue: #2E8BC0;
+    --lightBlue: #B1D4E0;
+    --red: #ff2753;
+    --font: font-family: 'Fira Sans', sans-serif;
+    --thinFont: font-weight: 100;
+    --lightFont: font-weight: 300;
+    --regularFont: font-weight: 400;
+    --boldFont: font-weight: 700;
+    --bigSizeFont: font-size: 50px;
+    --mediumSizeFont: font-size: 30px;
+    --smallSizeFont: font-size: 16px;
+}
+
 body {
-    background-image: url(../images/Friends\ FB.jpg);
-    z-index: 1;
+    background-color: var(--midnightBlue);
 }
 
 .about-header {

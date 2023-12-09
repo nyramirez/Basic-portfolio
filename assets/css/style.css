@@ -21,13 +21,13 @@ body {
 .about-header {
     text-align: center;
     opacity: .95;
-    background-color: whitesmoke;
+    background-color: var(--lightBlue);
     margin-right: auto;
     margin-left: auto;
     margin-top: 1%;
     margin-bottom: 1%;
     padding: .5%;
-    border: 1px black;
+    border: 2px var(--darkBlue);
     width: 90%;
     height: 11%;
 }
